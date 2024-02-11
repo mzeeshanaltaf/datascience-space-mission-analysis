@@ -1,5 +1,5 @@
 # datascience-space-mission-analysis
-Analysis of Space Missions using Python Pandas Library. The datasheet used here is scrapped from [Next Space Flight](nextspaceflight.com) and includes all the space missions since the beginning of Space Race between the USA and the Soviet Union in 1957 till date (Feb 2024)
+Analysis of Space Missions using Python Pandas Library. The datasheet used here is scrapped from www.nextspaceflight.com and includes all the space missions since the beginning of Space Race between the USA and the Soviet Union in 1957 till date (Feb 2024)
 
 ## Setup
 To access files, use any of the below options:
